@@ -19,7 +19,7 @@ Learning tutorial session at
 ### Machine learning resources
 
 * See the [lecture
-  notes](https://github.com/adrn/ahw2017-ml/blob/master/lecture-notes.md)
+  notes](https://github.com/AstroHackWeek/AstroHackWeek2017/blob/master/lecture-notes.md)
 * [Lectures from a Machine Learning course by Andrew
   Ng](https://see.stanford.edu/Course/CS229)
 * scikit-learn [basic

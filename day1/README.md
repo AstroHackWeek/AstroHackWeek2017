@@ -25,5 +25,6 @@ Learning tutorial session at
 * scikit-learn [basic
   tutorial](http://scikit-learn.org/stable/tutorial/basic/tutorial.html) and
   [tutorial index](http://scikit-learn.org/stable/tutorial/index.html)
+* [Python Data Science Handbook, Chapter 5](https://jakevdp.github.io/PythonDataScienceHandbook/05.00-machine-learning.html) (free online book/expensive printed book)
 * [Statistics, Data Mining, and Machine Learning in
   Astronomy](http://press.princeton.edu/titles/10159.html) (textbook)

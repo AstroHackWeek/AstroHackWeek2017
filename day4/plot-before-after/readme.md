@@ -27,7 +27,7 @@ From [this](https://github.com/AstroHackWeek/AstroHackWeek2017/blob/master/day4/
 
 **Original**
 
-![](https://github.com/AstroHackWeek/AstroHackWeek2017/raw/master/day4/phone_providers/phone_providers-original.png)
+<img src='https://github.com/AstroHackWeek/AstroHackWeek2017/raw/master/day4/phone_providers/phone_providers-original.png' width=400px>
 
 **Sketch**
 
@@ -46,7 +46,8 @@ From [this](https://github.com/AstroHackWeek/AstroHackWeek2017/blob/master/day4/
 
 **Before**
 
-![](https://github.com/AstroHackWeek/AstroHackWeek2017/raw/master/day4/canada_drinking/before_figure.png)
+<img src='https://github.com/AstroHackWeek/AstroHackWeek2017/raw/master/day4/canada_drinking/before_figure.png' width=400px>
+
 
 **Sketch**
 
@@ -54,7 +55,7 @@ From [this](https://github.com/AstroHackWeek/AstroHackWeek2017/blob/master/day4/
 
 **Final**
 
-![](https://github.com/AstroHackWeek/AstroHackWeek2017/raw/master/day4/canada_drinking/after_figure.png)
+<img src='https://github.com/AstroHackWeek/AstroHackWeek2017/raw/master/day4/canada_drinking/after_figure.png' width=400px>
 
 ---
 ## Big Mac
@@ -62,7 +63,7 @@ From [this](https://github.com/AstroHackWeek/AstroHackWeek2017/blob/master/day4/
 
 **Before**
 
-![](https://github.com/AstroHackWeek/AstroHackWeek2017/raw/master/day4/bigmac/before.png)
+<img src='https://github.com/AstroHackWeek/AstroHackWeek2017/raw/master/day4/bigmac/before.png' width=400px>
 
 **Sketch**
 
@@ -71,4 +72,4 @@ From [this](https://github.com/AstroHackWeek/AstroHackWeek2017/blob/master/day4/
 **After**
 
 ![](http://i.imgur.com/PmvdhiZl.png)
-![](https://github.com/AstroHackWeek/AstroHackWeek2017/raw/master/day4/bigmac/Big%20Mac.png)
+<img src='https://github.com/AstroHackWeek/AstroHackWeek2017/raw/master/day4/bigmac/Big%20Mac.png' width=400px>

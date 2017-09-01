@@ -18,7 +18,7 @@ From [this](https://github.com/AstroHackWeek/AstroHackWeek2017/blob/master/day4/
 
 ![](http://i.imgur.com/T3V4ctXm.jpg)
 
-**Final**
+**After**
 
 ![](http://i.imgur.com/3VeWk5gm.png)
 
@@ -33,7 +33,7 @@ From [this](https://github.com/AstroHackWeek/AstroHackWeek2017/blob/master/day4/
 
 ![](http://i.imgur.com/sb2GU4dm.jpg)
 
-**Final**
+**After**
 
 In [this](https://github.com/AstroHackWeek/AstroHackWeek2017/blob/master/day4/phone_providers/phone_providers_comparison.ipynb) notebook
 
@@ -53,13 +53,15 @@ From [this](https://github.com/AstroHackWeek/AstroHackWeek2017/blob/master/day4/
 
 ![](http://i.imgur.com/QK7g6xgm.jpg)
 
-**Final**
+**After**
 
 <img src='https://github.com/AstroHackWeek/AstroHackWeek2017/raw/master/day4/canada_drinking/after_figure.png' width=400px>
 
 ---
 ## Big Mac
-From [this](https://github.com/AstroHackWeek/AstroHackWeek2017/blob/master/day4/bigmac/bigmac.ipynb) notebook
+From [this](https://github.com/AstroHackWeek/AstroHackWeek2017/blob/master/day4/bigmac/bigmac.ipynb) notebook.
+
+Project Salad vs Burger: Mose Giordano, Itamar Reis and Brianna Irish worked on different plotting visualization of valid data to conceptualization the data in both code and presentation. This reflects real time highlights the important of clear, clean, impact messages that transmits the data in seconds within a  presentation. We stopped and talked about who and what we wanted to convey to different audiences such as children, office meeting or government review plotting points. By making the transmission of information clean and contemporary we are highlighting the substantiation  of the important data.  This makes the facts of comparison stronger and well thought out. We tried playing with different puts of size, color, coding and display options of color theory with the  presentation.  Materials: Matplotlib, Colored Pens, Paper and Microsoft Excel Graphing.
 
 **Before**
 
@@ -73,3 +75,54 @@ From [this](https://github.com/AstroHackWeek/AstroHackWeek2017/blob/master/day4/
 
 ![](http://i.imgur.com/PmvdhiZl.png)
 <img src='https://github.com/AstroHackWeek/AstroHackWeek2017/raw/master/day4/bigmac/Big%20Mac.png' width=400px>
+
+---
+## Coding Skills
+From [this](https://github.com/AstroHackWeek/AstroHackWeek2017/blob/master/day4/plot_skills/good_figure.ipynb) notebook
+
+**Before**
+
+<img src='https://github.com/AstroHackWeek/AstroHackWeek2017/raw/master/day4/plot_skills/bad_fig.png' width=400px>
+
+**Sketch**
+
+![](http://i.imgur.com/4zXaCo8m.jpg)
+
+**After**
+
+![](http://i.imgur.com/kbkEKMpm.png)
+
+
+---
+## 3D Densities
+
+**Before**
+
+![](http://i.imgur.com/qJA11uam.png)
+
+**Sketch**
+
+![](http://i.imgur.com/gMPRHYEm.jpg)
+
+**After**
+
+![](http://i.imgur.com/7KM1uLwm.png)
+
+
+---
+## Gaia CMD
+From [this](https://github.com/AstroHackWeek/AstroHackWeek2017/blob/master/day4/interpML/dataVizImprovementAnderson.ipynb) notebook
+
+**Before**
+
+<img src='https://github.com/AstroHackWeek/AstroHackWeek2017/raw/master/day4/interpML/playwithdata.png' width=400px>
+
+**Sketch**
+
+![](http://i.imgur.com/emZKfAPm.jpg)
+
+**After**
+
+![](http://i.imgur.com/EEMCuJem.png)
+
+See [bonus animation!](https://github.com/AstroHackWeek/AstroHackWeek2017/blob/master/day4/interpML/mlInterp.gif)
